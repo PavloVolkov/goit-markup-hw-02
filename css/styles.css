@@ -1,0 +1,154 @@
+/*header styles*/
+.web_studio_top {
+  font-family: 'Raleway', sans-serif; /* logo styles*/
+  font-size: 26px;
+  line-height: 1.2em;
+  font-weight: bold;
+}
+.nav_list_top {
+  list-style-type: none; /*navigation list styles*/
+  line-height: 1.15em;
+  letter-spacing: 0.02em;
+}
+.address_link_top {
+  font-style: normal;
+  line-height: 1.15em;
+  color: #757575;
+}
+
+/*main content styles*/
+/*studio*/
+.list_main {
+  list-style-type: none;
+}
+.hero_title {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36em;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #212121; /*will be changed*/
+}
+.order_button {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.87em;
+  letter-spacing: 0.06em;
+  color: blue; /*will be changed*/
+}
+.secondary_title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.15em;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.sub_title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 1.15em;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
+}
+.employee_name {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18em;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.employee_specializacion {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.18em;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+/*portfolio*/
+.filter_portfolio {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6em;
+  letter-spacing: 0.03em;
+  list-style-type: none;
+}
+.progects_list {
+  list-style-type: none;
+}
+.progects_title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 2em;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+.progects_description {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.87em;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+/*footer styles*/
+.web_studio_bot {
+  font-family: 'Raleway', sans-serif; /* logo styles*/
+  font-size: 22px;
+  line-height: 1.2em;
+  font-weight: bold;
+}
+.map_address_bot {
+  font-style: normal;
+  line-height: 1.7em;
+  color: blue; /*will be changed*/
+}
+.address_link_bot {
+  font-style: normal;
+  line-height: 1.7em;
+}
+.social_list_bot {
+  list-style-type: none;
+}
+.title_bot {
+  font-style: normal;
+  font-weight: bold;
+  line-height: 1.15em;
+  text-transform: uppercase;
+  color: blue; /*will be changed*/
+}
+.copyright {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 2em;
+}
+/*general styles*/
+body {
+  color: #757575;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  font-style: normal;
+}
+.link_condition:hover,
+.link_condition:focus {
+  color: #2196f3;
+}
+.color_blue {
+  color: #2196f3; /* logo styles*/
+}
+.color_black {
+  color: #212121; /* logo styles*/
+}
+.color_grey {
+  color: #757575;
+}
