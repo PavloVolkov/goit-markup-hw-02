@@ -6,32 +6,32 @@ body {
   letter-spacing: 0.03em;
   font-style: normal;
 }
-.link_condition:hover,
-.link_condition:focus {
+.link-condition:hover,
+.link-condition:focus {
   color: #2196f3;
 }
-.color_blue {
+.color-blue {
   color: #2196f3; /* logo styles*/
 }
-.color_black {
+.color-black {
   color: #212121; /* logo styles*/
 }
-.color_grey {
+.color-grey {
   color: #757575;
 }
 /*header styles*/
-.web_studio_top {
+.web-studio-top {
   font-family: 'Raleway', sans-serif; /* logo styles*/
   font-size: 26px;
   line-height: 1.2em;
   font-weight: bold;
 }
-.nav_list_top {
+.nav-list-top {
   list-style-type: none; /*navigation list styles*/
   line-height: 1.15em;
   letter-spacing: 0.02em;
 }
-.address_link_top {
+.address-link-top {
   font-style: normal;
   line-height: 1.15em;
   color: #757575;
@@ -39,10 +39,10 @@ body {
 
 /*main content styles*/
 /*studio*/
-.list_main {
+.list-main {
   list-style-type: none;
 }
-.hero_title {
+.hero-title {
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
@@ -51,7 +51,7 @@ body {
   text-transform: uppercase;
   color: #212121; /*will be changed*/
 }
-.order_button {
+.order-button {
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -59,7 +59,7 @@ body {
   letter-spacing: 0.06em;
   color: blue; /*will be changed*/
 }
-.secondary_title {
+.secondary-title {
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
@@ -67,7 +67,7 @@ body {
   letter-spacing: 0.03em;
   color: #212121;
 }
-.sub_title {
+.sub-title {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -76,7 +76,7 @@ body {
   text-transform: uppercase;
   color: #212121;
 }
-.employee_name {
+.employee-name {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -84,7 +84,7 @@ body {
   letter-spacing: 0.03em;
   color: #212121;
 }
-.employee_specializacion {
+.employee-specializacion {
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -93,7 +93,7 @@ body {
   color: #757575;
 }
 /*portfolio*/
-.filter_portfolio {
+.filter-portfolio {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -101,10 +101,10 @@ body {
   letter-spacing: 0.03em;
   list-style-type: none;
 }
-.progects_list {
+.progects-list {
   list-style-type: none;
 }
-.progects_title {
+.progects-title {
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -112,7 +112,7 @@ body {
   letter-spacing: 0.06em;
   color: #212121;
 }
-.progects_description {
+.progects-description {
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -121,25 +121,25 @@ body {
   color: #757575;
 }
 /*footer styles*/
-.web_studio_bot {
+.web-studio-bot {
   font-family: 'Raleway', sans-serif; /* logo styles*/
   font-size: 22px;
   line-height: 1.2em;
   font-weight: bold;
 }
-.map_address_bot {
+.map-address-bot {
   font-style: normal;
   line-height: 1.7em;
   color: blue; /*will be changed*/
 }
-.address_link_bot {
+.address-link-bot {
   font-style: normal;
   line-height: 1.7em;
 }
-.social_list_bot {
+.social-list-bot {
   list-style-type: none;
 }
-.title_bot {
+.title-bot {
   font-style: normal;
   font-weight: bold;
   line-height: 1.15em;
