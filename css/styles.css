@@ -1,6 +1,11 @@
+:root {
+  --title-color: #212121;
+  --text-color: #757575;
+  --front-color: #2196f3;
+}
 /*general styles*/
 body {
-  color: #757575;
+  color: var(--text-color);
   font-family: 'Roboto', Helvetica, sans-serif;
   font-size: 14px;
   letter-spacing: 0.03em;
@@ -8,16 +13,16 @@ body {
 }
 .link-condition:hover,
 .link-condition:focus {
-  color: #2196f3;
+  color: var(--front-color);
 }
 .color-blue {
-  color: #2196f3; /* logo styles*/
+  color: var(--front-color); /* logo styles*/
 }
 .color-black {
-  color: #212121; /* logo styles*/
+  color: var(--title-color); /* logo styles*/
 }
 .color-grey {
-  color: #757575;
+  color: var(--text-color);
 }
 /*header styles*/
 .web-studio-top {
@@ -34,7 +39,7 @@ body {
 .address-link-top {
   font-style: normal;
   line-height: 1.15em;
-  color: #757575;
+  color: var(--text-color);
 }
 
 /*main content styles*/
@@ -49,7 +54,7 @@ body {
   line-height: 1.36em;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: #212121; /*will be changed*/
+  color: var(--title-color); /*will be changed*/
 }
 .order-button {
   font-style: normal;
@@ -65,7 +70,7 @@ body {
   font-size: 36px;
   line-height: 1.15em;
   letter-spacing: 0.03em;
-  color: #212121;
+  color: var(--title-color);
 }
 .sub-title {
   font-style: normal;
@@ -74,7 +79,7 @@ body {
   line-height: 1.15em;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #212121;
+  color: var(--title-color);
 }
 .employee-name {
   font-style: normal;
@@ -82,7 +87,7 @@ body {
   font-size: 16px;
   line-height: 1.18em;
   letter-spacing: 0.03em;
-  color: #212121;
+  color: var(--title-color);
 }
 .employee-specializacion {
   font-style: normal;
@@ -90,7 +95,7 @@ body {
   font-size: 16px;
   line-height: 1.18em;
   letter-spacing: 0.03em;
-  color: #757575;
+  color: var(--text-color);
 }
 /*portfolio*/
 .filter-portfolio {
@@ -110,7 +115,7 @@ body {
   font-size: 18px;
   line-height: 2em;
   letter-spacing: 0.06em;
-  color: #212121;
+  color: var(--title-color);
 }
 .progects-description {
   font-style: normal;
@@ -118,7 +123,7 @@ body {
   font-size: 16px;
   line-height: 1.87em;
   letter-spacing: 0.03em;
-  color: #757575;
+  color: var(--text-color);
 }
 /*footer styles*/
 .web-studio-bot {
