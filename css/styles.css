@@ -15,7 +15,7 @@ body {
 .link-condition:focus {
   color: var(--front-color);
 }
-.color-var(--front-color) {
+.color-blue {
   color: var(--front-color); /* logo styles*/
 }
 .color-black {
