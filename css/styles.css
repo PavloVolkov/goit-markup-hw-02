@@ -15,7 +15,7 @@ body {
 .link-condition:focus {
   color: var(--front-color);
 }
-.color-blue {
+.color-var(--front-color) {
   color: var(--front-color); /* logo styles*/
 }
 .color-black {
@@ -62,7 +62,7 @@ body {
   font-size: 16px;
   line-height: 1.87em;
   letter-spacing: 0.06em;
-  color: blue; /*will be changed*/
+  color: var(--front-color); /*will be changed*/
 }
 .secondary-title {
   font-style: normal;
@@ -135,7 +135,7 @@ body {
 .map-address-bot {
   font-style: normal;
   line-height: 1.7em;
-  color: blue; /*will be changed*/
+  color: var(--front-color); /*will be changed*/
 }
 .address-link-bot {
   font-style: normal;
@@ -149,7 +149,7 @@ body {
   font-weight: bold;
   line-height: 1.15em;
   text-transform: uppercase;
-  color: blue; /*will be changed*/
+  color: var(--front-color); /*will be changed*/
 }
 .copyright {
   font-style: normal;
